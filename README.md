@@ -18,10 +18,9 @@ con **Django**, utilizando el patrón Modelo - Vista - Controlador (MVC).
 
 # Objetivos 
 - Reforzar conocimientos adquiridos durante el transcurso de la materia.
-- Comprender y aplicar el patrón MVC.
+- Comprender y aplicar la creación de una api en Django.
 - Implementar relaciones entre modelos (Director → Películas).
-- Desarrollar una aplicación web funcional y navegable.
-- Aplicar conceptos de rutas, templates y manejo de datos en Django.
+- Desarrollar una aplicación web funcional y navegable. 
 
 ## Descripción del proyecto
 La aplicación funcionara como una cartelera de peliculas dentro de la cual se podra observar una sección de peliculas y una seccion de directores, con los respectivos parametros a observar en cada una de las secciones.
