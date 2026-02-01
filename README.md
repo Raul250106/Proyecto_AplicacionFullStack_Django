@@ -1,14 +1,14 @@
 # Datos del grupo
-**Integrantes** 
+## Integrantes
 Raúl Alejandro Luna Vizcaíno
 Joffre Steven Verdezoto Tejena
-**Carrera** 
+## Carrera
 Ingeniería Informatica
-**Materia**
+## Materia
 Desarrollo de aplicaciones web
-**Proyecto**
+## Proyecto
 Películas y directores: Cine Mundo
-**Fecha de entrega**
+## Fecha de entrega 
 3 de febrero de 2025
 
 # Proyecto Final: Peliculas y directores (Django)
@@ -22,16 +22,16 @@ con **Django**, utilizando el patrón Modelo - Vista - Controlador (MVC).
 - Implementar relaciones entre modelos (Director → Películas).
 - Desarrollar una aplicación web funcional y navegable. 
 
-## Descripción del proyecto
+# Descripción del proyecto
 La aplicación funcionara como una cartelera de peliculas dentro de la cual se podra observar una sección de peliculas y una seccion de directores, con los respectivos parametros a observar en cada una de las secciones.
 
-## Requisitos
+# Requisitos
 
 - Python 3.10 o superior
 - Django
 - Entorno virtual (recomendado)
 
-## Instalación y configuración
+# Instalación y configuración
 ### Instalación de gestor de ambientes virtuales de python
 sudo apt install python3-venv
 ### Creación del entorno virtual
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ### Desactivar el ambiente
 deactivate
 
-## Comandos a utilizar
+# Comandos a utilizar
 ### Ejecución del servidor
 python manage.py runserver
 ### Creación super usuario
